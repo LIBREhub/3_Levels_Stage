@@ -1,6 +1,6 @@
 # High-power Star LED
 
-![](../../images/light-led.jpg)
+![](../../images/star-led.jpg)
 
 Light-emitting diode (LED) with significant luminosity and brightness output.
 

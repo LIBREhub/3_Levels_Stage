@@ -69,7 +69,7 @@ Carefully remove the printing brim from all parts. To remove brim:
     * Support the part with the thumb of your dominant hand.
     * Place the blade on the surface to be cut, and carefully close your dominant hand, moving the blade, under control, towards your thumb.
 
-![](images/BrimRemoval.png)
+![](images/BrimRemoval.jpg)
 
 
 

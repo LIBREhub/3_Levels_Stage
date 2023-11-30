@@ -13,8 +13,6 @@ PartData:
 # M3 HEX screw
 
 
-![](../../images/torni.jpg)
-
 
 
 

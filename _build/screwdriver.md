@@ -1,4 +1,0 @@
-# Screwdriver
-
-
-![](images/screwdriver.jpg "")

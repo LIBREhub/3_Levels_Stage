@@ -1,4 +1,0 @@
-# Piler
-
-
-![](images/pliersLCC.png "")

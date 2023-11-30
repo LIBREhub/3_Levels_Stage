@@ -1,4 +1,4 @@
 # Pi camera lens tool
 
-![](../../images/picamlt.jpg)
+![](../../images/picam-tool.jpg)
 

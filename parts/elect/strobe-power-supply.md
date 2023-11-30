@@ -8,8 +8,9 @@ PartData:
         Cable length: 110cm
         Supplier: -[Altronics](https://altronics.cl/power-supply-5v-3A-21x55)
 ---
+
 # Strobe Power Supply
 
-![](../../images/Strobe-power-supply.jpg)
-![](../../images/Strobe-power-supplys.jpg)
+![](../../images/power-supply.jpg)
+![](../../images/power-supply-1.jpg)
 

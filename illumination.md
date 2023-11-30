@@ -26,7 +26,6 @@
 [Illumination arm]: models/led-arm.stl "{previewpage}"
 [Hinge pin]: models/arm-pin.stl "{previewpage}"
 [LED cover]: models/led-cover.stl "{previewpage}"
-[Conductor Flexible Cables]: parts/elect/protoboard-cables.md "{cat:electronic}"
 [Nitrile gloves]: parts/consumables/gloves.md "{cat:consumable}"
 
 In this section, we are assembling the strobe illuminator. This mounts the high-power LED and condenser lens above the sample so the microscope can image the transmitted light.
@@ -82,19 +81,20 @@ In this section, we are assembling the strobe illuminator. This mounts the high-
 * Use [nitrile gloves][Nitrile gloves]{Qty:2} to manipulate the condenser lens.
 * Make a V cut in the sides of the [20 mm circular lens] [Star-LED lens] using [precision wire cutter][Precision wire cutter]{qty:1} as shown in the images.
 
-![](images/LED3.jpg)
-![](images/LED4.jpg)
-![](images/LED1.jpg)
+![](images/condenser-lens.jpg)
+![](images/condenser-lens-1.jpg)
+![](images/condenser-lens-2.jpg)
 
 * Fasten a [high-power LED][High-power star LED]{qty:1} to a [heat sink][30x30x10mm Heat sink]{qty:1} using a [double-sided thermal tape][Double-sided thermal tape]{qty:1}, as described in this [guide][guide-LED-to-heatsink].
 * Fasten the assembly to a [20 mm circular lens][Star-LED lens]{Qty:1} using a [double-sided self adhesive tape][Double-sided self adhesive tape]{qty:1}, as described in this [guide][guide-LED-to-lens].
 * The final assembly should be as shown below.
 
-![](images/LED.jpg)
+![](images/led-lens-sink-1.jpg)
+![](images/led-lens-sink.png)
 
 ## Assemble the illumination wiring {pagestep}
 
-* Take the red and black [cables][Conductor Flexible Cables]{Qty:2} of the illumination assembly and crimp them using two [male connectors][Male Crimp Pin]{qty:2} and a [crimper][Crimper]{qty:1} as described in this [guide][guide-dupont-connector].
+* Take the red and black cables of the illumination assembly and crimp them using two [male connectors][Male Crimp Pin]{qty:2} and a [crimper][Crimper]{qty:1} as described in this [guide][guide-dupont-connector].
 * Attach a [2 pin Du Pont connector female housing]{qty:1} to it.
 * The illumination wiring should be as shown below.
 

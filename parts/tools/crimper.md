@@ -1,3 +1,3 @@
 # Crimper
 
-![](../../images/Crimper.jpg)
+![](../../images/crimper.jpg)
