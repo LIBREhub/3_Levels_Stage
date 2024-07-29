@@ -29,8 +29,8 @@ Nitrile gloves	consumable	2
 O-ring	mechanic	1		
 Pi Camera lens tool	tool	1		This should come with the Raspberry Pi Camera Module. If it is missing, you can 3D print a workaround lens remover.
 Pi camera ribbon cable	electronic	1		
-Pi HAT	electronic	1		This is a custom open-source board documented [here](https://github.com/wenzel-lab/open-microfluidics-workstation/)
-PLA filament	material	205 g		Of any colour you want
+Pi HAT	electronic	1		This is a custom open-source board documented [here](https://github.com/wenzel-lab/modular-microfluidics-workstation-controller/tree/master/module-pi)
+PLA filament	material	205 g		Of any color you want
 Precision wire cutter	tool	1		
 Raspberry Pi	electronic	1		
 Raspberry Pi Camera Module v2	electronic	1		
@@ -39,7 +39,7 @@ RepRap-style printer	tool	1
 Soldering iron	tool	1		
 Star-LED lens	optical	1		
 Strobe Cable	electronic	1		This is a custom connector documented [here](https://github.com/wenzel-lab/open-microfluidics-workstation/)
-Strobe Module	electronic	1		This is a custom open-source board documented [here](https://github.com/wenzel-lab/open-microfluidics-workstation/)
+Strobe Module	electronic	1		This is a custom open-source board documented [here](https://github.com/wenzel-lab/modular-microfluidics-workstation-controller/tree/master/module-fast-imaging)
 Strobe Power Supply	electronic	1	Strobe Power Supply	
 Utility knife	tool	1		Not a scalpel!
 Voltage regulator	electronic	1		This regulator has modifications documented [here](https://github.com/wenzel-lab/open-microfluidics-workstation/)
