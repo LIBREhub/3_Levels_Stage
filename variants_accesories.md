@@ -22,4 +22,4 @@ For your workstation and experiments:
 
 ## Other open-source instruments
 
-**Syringe pumps and a dual controller:** A syringe pump is a device that delivers precise and accurate amounts of fluid over a broad range of flow rates. It is a common peripheral instrument for droplet microfluidic assays. Download [here](https://librehub.github.io/syringe-pumps-and-controller/).
+**Syringe pumps and a dual controller:** A syringe pump is a device that delivers precise and accurate amounts of fluid over a broad range of flow rates. It is a common peripheral instrument for droplet microfluidic assays. Download [here](https://wenzel-lab.github.io/syringe-pumps-and-controller/).
